@@ -7,7 +7,7 @@
     --cor5: #BFBFBF;
 
 }
-body {background-color: var(--cor4);}
+body {background-image: url('imagens/wallpaper004.jpg');}
 
 main {
 
@@ -18,7 +18,7 @@ main {
     display: block;
     padding: 20px;
     padding-top: 10px;
-    background-color: var(--cor3);
+    background-color: var(--cor5);
     margin-top: 10px;
 }
 
